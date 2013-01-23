@@ -16,3 +16,17 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# Mac filesystem file
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# emacs temporary files
+*~
+\#*\#
+.\#*
+
+# .icc binary file
+*.icc
